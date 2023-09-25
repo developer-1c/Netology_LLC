@@ -1,2 +1,2 @@
 # Netology
-1C configurations that I did in Netology
+1C configurations that I created in "Netology"
